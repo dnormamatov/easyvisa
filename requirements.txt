@@ -1,0 +1,8 @@
+# Python 3.14-compatible stack (prebuilt wheels, no native compilation required)
+aiogram==3.29.0
+SQLAlchemy[asyncio]==2.0.40
+asyncpg==0.31.0
+alembic==1.15.2
+python-dotenv==1.1.0
+pydantic==2.13.4
+pydantic-settings==2.8.1
